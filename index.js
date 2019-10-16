@@ -56,8 +56,8 @@ function twitch()
       channels: ["#"+channel],    
       clientID:"",
        identity: {
-         username: channel,
-         password: "oauth:"+code
+         username: Brucifer_bot,
+         password: "oauth:fq88i5z1ehtrbuyei76r777naxnwhr"+code
        },
     };
 
